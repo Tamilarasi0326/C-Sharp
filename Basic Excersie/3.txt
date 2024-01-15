@@ -1,0 +1,17 @@
+3. Write a C# Sharp program to print the result of dividing two numbers.
+
+---------------------------------------------------------------------------
+
+
+using System;
+
+namespace basic3
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine( 10 / 2);
+        }    
+    }
+}
